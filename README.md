@@ -7,5 +7,6 @@
   <li>Minimum operations to make all elements equal in an array</li>
   <li>Check if the given array contains duplicate elements within k distance from each other</li>
   <li>Find out the Maximum and Minimum frequency of a no in the array</li>
-  <li>Count all the (i,j) Pairs such that b[i] + b[j] == k (count of such pairs.) [i<j]</li>
+  <li>Count all the (i,j) Pairs such that b[i] + b[j] == k (count of such pairs.) (i<j) </li>
+  <li>Count All ((i,j) pairs such that b[i] - b[j] == k (count of such pairs.) (i<j) </li>
 </ol>
