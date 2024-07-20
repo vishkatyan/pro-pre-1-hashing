@@ -9,4 +9,6 @@
   <li>Find out the Maximum and Minimum frequency of a no in the array</li>
   <li>Count all the (i,j) Pairs such that b[i] + b[j] == k (count of such pairs.) i<j </li>
   <li>Count All ((i,j) pairs such that b[i] - b[j] == k (count of such pairs.) i<j </li>
+  <li>Count all i,j pairs where i<j and abs(b[i]-b[j]) = k </li>
+  <li>Find Sum of Range  [l……….r] where(l<=r) using Prefix sum. </li>
 </ol>
