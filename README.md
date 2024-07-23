@@ -11,4 +11,5 @@
   <li>Count All ((i,j) pairs such that b[i] - b[j] == k (count of such pairs.) i<j </li>
   <li>Count all i,j pairs where i<j and abs(b[i]-b[j]) = k </li>
   <li>Find Sum of Range  [l……….r] where(l<=r) using Prefix sum. </li>
+    <li>Find count of number of subarrays with sum ==  k</li>
 </ol>
