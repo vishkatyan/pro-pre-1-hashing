@@ -12,4 +12,6 @@
   <li>Count all i,j pairs where i<j and abs(b[i]-b[j]) = k </li>
   <li>Find Sum of Range  [l……….r] where(l<=r) using Prefix sum. </li>
     <li>Find count of number of subarrays with sum ==  k</li>
+    <li> Find largest/smallest subarray with sum k in Given Array</li>
+    <li>Find count of shortest/largest subarrays with sum k in given array</li>
 </ol>
